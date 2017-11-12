@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Problemset4</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>resources/images/20160720_120848.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/20160720_120848.jpg</locationURI>
+		</link>
+		<link>
+			<name>resources/images/if_Address_Book_86957 (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/if_Address_Book_86957%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>resources/images/photoBERT.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/photoBERT.jpg</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
